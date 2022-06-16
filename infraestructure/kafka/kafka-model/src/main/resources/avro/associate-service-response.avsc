@@ -1,0 +1,111 @@
+{
+    "namespace":  "com.ninjaone.kafka.associate.service.avro.model",
+    "type": "record",
+    "name": "AssociateServiceResponseAvroModel",
+    "fields": [
+        {
+            "name": "id",
+            "type": {
+                "type": "string",
+                "logicalType": "uuid"
+            }
+        },
+        {
+            "name": "sagaId",
+            "type": {
+                "type": "string",
+                "logicalType": "uuid"
+            }
+        },
+        {
+            "name": "deviceId",
+            "type": {
+                "type": "string",
+                "logicalType": "uuid"
+            }
+        },
+        {
+            "name": "deviceServicesResponseAvroModel",
+            "type": {
+                "type": "array",
+                "items": {
+                    "name": "DeviceServiceResponseAvroModel",
+                    "type": "record",
+                    "fields": [
+                        {
+                            "name": "id",
+                            "type": {
+                                "type": "string",
+                                "logicalType": "uuid",
+                                "default": "00000000-0000-0000-0000-000000000000"
+                            }
+                        },
+                        {
+                            "name": "serviceTypeId",
+                            "type": {
+                                "type": "string",
+                                "logicalType": "uuid",
+                                "default": "00000000-0000-0000-0000-000000000000"
+                            }
+                        },
+                        {
+                            "name": "price",
+                            "type": {
+                                "type": "bytes",
+                                "logicalType": "decimal",
+                                "precision": 10,
+                                "scale": 2
+                            }
+                        },
+                        {
+                            "name": "message",
+                            "type": {
+                                "type": "string"
+                            }
+                        },
+                        {
+                            "name": "validation",
+                            "type": {
+                                "type": "enum",
+                                "name": "DeviceServiceStatus",
+                                "symbols": [
+                                    "PENDING",
+                                    "VALIDATED",
+                                    "INVALID"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "name": "createdAt",
+            "type": {
+                "type": "long",
+                "logicalType": "timestamp-millis"
+            }
+        },
+        {
+            "name": "associateServiceStatus",
+            "type": {
+                "type": "enum",
+                "name": "AssociateServiceStatus",
+                "symbols": [
+                    "PENDING",
+                    "VALIDATED",
+                    "INVALID"
+                ]
+            }
+        },
+        {
+            "name": "failureMessages",
+            "type": {
+                "type": "array",
+                "items":{
+                    "type":"string"
+                }
+            }
+        }
+    ]
+}

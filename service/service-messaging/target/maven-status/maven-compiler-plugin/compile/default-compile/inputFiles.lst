@@ -1,0 +1,4 @@
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-messaging/src/main/java/com/ninjaone/service/messaging/publisher/kafka/AsociatedDeviceServiceKafkaMessagePublisher.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-messaging/src/main/java/com/ninjaone/service/messaging/mapper/AssociateDeviceServiceMessagingDataMapper.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-messaging/src/main/java/com/ninjaone/service/messaging/listener/kafka/AssociateServiceRequestKafkaListener.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-messaging/src/main/java/com/ninjaone/service/messaging/publisher/kafka/IncorrectDeviceServiceKafkaMessagePublisher.java

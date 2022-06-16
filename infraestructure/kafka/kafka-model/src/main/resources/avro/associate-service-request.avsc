@@ -1,0 +1,80 @@
+{
+    "namespace": "com.ninjaone.kafka.associate.service.avro.model",
+    "type": "record",
+    "name": "AssociateServiceRequestAvroModel",
+    "fields": [
+        {
+            "name": "id",
+            "type": {
+                "type": "string",
+                "logicalType": "uuid"
+            }
+        },
+        {
+            "name": "sagaId",
+            "type": {
+                "type": "string",
+                "logicalType": "uuid"
+            }
+        },
+        {
+            "name": "deviceId",
+            "type": {
+                "type": "string",
+                "logicalType": "uuid"
+            }
+        },
+        {
+            "name": "deviceServices",
+            "type": {
+                "type": "array",
+                "items": {
+                    "name": "DeviceService",
+                    "type": "record",
+                    "fields": [
+                        {
+                            "name": "id",
+                            "type": {
+                                "type": "string",
+                                "logicalType": "uuid"
+                            }
+                        },
+                        {
+                            "name": "serviceTypeId",
+                            "type": {
+                                "type": "string",
+                                "logicalType": "uuid"
+                            }
+                        },
+                        {
+                            "name": "typeDeviceId",
+                            "type": {
+                                "type": "string",
+                                "logicalType": "uuid"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "name": "createdAt",
+            "type": {
+                "type": "long",
+                "logicalType": "timestamp-millis"
+            }
+        },
+        {
+            "name": "associateServiceStatus",
+            "type": {
+                "type": "enum",
+                "name": "AssociateServiceStatus",
+                "symbols": [
+                    "PENDING",
+                    "VALIDATED",
+                    "INVALID"]
+            }
+        }
+
+    ]
+}

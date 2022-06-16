@@ -1,0 +1,5 @@
+com/ninjaone/service/application/rest/ServiceController.class
+com/ninjaone/service/application/exception/handler/ServiceGlobalExceptionHandler.class
+com/ninjaone/service/application/configuration/SecurityConfiguration.class
+com/ninjaone/service/application/rest/ServiceTypeController.class
+com/ninjaone/service/application/configuration/DocumentationConfiguration.class

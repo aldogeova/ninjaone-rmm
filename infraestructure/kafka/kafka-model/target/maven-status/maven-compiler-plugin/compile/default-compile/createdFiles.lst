@@ -1,0 +1,10 @@
+com/ninjaone/kafka/associate/service/avro/model/DeviceServiceResponseAvroModel.class
+com/ninjaone/kafka/associate/service/avro/model/DeviceServiceStatus.class
+com/ninjaone/kafka/associate/service/avro/model/AssociateServiceStatus.class
+com/ninjaone/kafka/associate/service/avro/model/AssociateServiceResponseAvroModel.class
+com/ninjaone/kafka/associate/service/avro/model/DeviceServiceResponseAvroModel$Builder.class
+com/ninjaone/kafka/associate/service/avro/model/AssociateServiceRequestAvroModel.class
+com/ninjaone/kafka/associate/service/avro/model/AssociateServiceResponseAvroModel$Builder.class
+com/ninjaone/kafka/associate/service/avro/model/AssociateServiceRequestAvroModel$Builder.class
+com/ninjaone/kafka/associate/service/avro/model/DeviceService$Builder.class
+com/ninjaone/kafka/associate/service/avro/model/DeviceService.class

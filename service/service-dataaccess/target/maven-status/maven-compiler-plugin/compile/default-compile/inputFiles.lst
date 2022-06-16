@@ -1,0 +1,12 @@
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/service/adapter/ServiceRepositoryImpl.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/type/device/repository/TypeDeviceViewJpaRepository.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/service/type/entity/ServiceTypeEntity.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/type/device/adapter/TypeDeviceViewRepositoryImpl.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/service/mapper/ServiceDataAccessMapper.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/type/device/mapper/TypeDeviceViewDataAccessMapper.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/service/type/repository/ServiceTypeJpaRepository.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/service/entity/ServiceEntity.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/service/repository/ServiceJpaRepository.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/service/type/mapper/ServiceTypeDataAccessMapper.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/service/type/adapter/ServiceTypeRepositoryImpl.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-dataaccess/src/main/java/com/ninjaone/service/dataaccess/type/device/entity/TypeDeviceViewEntity.java

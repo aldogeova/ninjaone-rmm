@@ -1,0 +1,13 @@
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/AssociateDeviceServiceService.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/valueobject/DeviceServiceAssociatetId.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/event/ReviewDeviceServiceEvent.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/entity/ServiceType.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/exception/ServiceNotFoundException.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/AssociateDeviceServiceServiceImpl.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/entity/Service.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/event/IncorrectDeviceServiceEvent.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/entity/AssociateDeviceService.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/entity/TypeDeviceView.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/entity/DeviceServiceAssociate.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/exception/ServiceDomainException.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/service/service-domain/service-domain-core/src/main/java/com/ninjaone/service/domain/event/AssociatedDeviceServiceEvent.java

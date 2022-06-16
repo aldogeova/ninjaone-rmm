@@ -1,0 +1,3 @@
+com/ninjaone/kafka/config/data/KafkaConfigData.class
+com/ninjaone/kafka/config/data/KafkaConsumerConfigData.class
+com/ninjaone/kafka/config/data/KafkaProducerConfigData.class

@@ -1,0 +1,4 @@
+com/ninjaone/inventory/messaging/listener/kafka/AssociateServiceResponseKafkaListener.class
+com/ninjaone/inventory/messaging/mapper/DeviceMessagingDataMapper.class
+com/ninjaone/inventory/messaging/publisher/kafka/AssociateServiceKafkaMessagePublisher.class
+com/ninjaone/inventory/messaging/publisher/kafka/AssociateServiceKafkaMessagePublisher$1.class

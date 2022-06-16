@@ -1,0 +1,4 @@
+com/ninjaone/kafka/producer/KafkaProducerConfig.class
+com/ninjaone/kafka/producer/service/KafkaProducer.class
+com/ninjaone/kafka/producer/service/impl/KafkaProducerImpl.class
+com/ninjaone/kafka/producer/exception/KafkaProducerException.class

@@ -1,0 +1,4 @@
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/infraestructure/kafka/kafka-producer/src/main/java/com/ninjaone/kafka/producer/KafkaProducerConfig.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/infraestructure/kafka/kafka-producer/src/main/java/com/ninjaone/kafka/producer/service/impl/KafkaProducerImpl.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/infraestructure/kafka/kafka-producer/src/main/java/com/ninjaone/kafka/producer/exception/KafkaProducerException.java
+/Users/aldo/Projects/ninjaone/code/ninjaone/ddd/ninjaone-rmm/infraestructure/kafka/kafka-producer/src/main/java/com/ninjaone/kafka/producer/service/KafkaProducer.java

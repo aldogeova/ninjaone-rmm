@@ -1,0 +1,8 @@
+com/ninjaone/inventory/application/rest/TypeDeviceController.class
+com/ninjaone/inventory/application/configuration/SecurityConfiguration.class
+com/ninjaone/inventory/application/rest/ChargeController.class
+com/ninjaone/inventory/application/rest/OperativeSystemController.class
+com/ninjaone/inventory/application/configuration/DocumentationConfiguration.class
+com/ninjaone/inventory/application/rest/DeviceClassificationController.class
+com/ninjaone/inventory/application/rest/DeviceController.class
+com/ninjaone/inventory/application/exception/handler/InventoryGlobalExceptionHandler.class
